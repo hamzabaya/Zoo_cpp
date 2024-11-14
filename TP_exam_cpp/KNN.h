@@ -40,4 +40,4 @@ public:
     virtual double similarityMeasure(T& a, T& b) const = 0;
 };
 
-#endif // KNN_H
+#endif
